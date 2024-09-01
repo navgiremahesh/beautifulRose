@@ -235,7 +235,10 @@ label .close_btn {
     margin: 24px 0 40px;
     max-width: 70%;
 }
-
+h4 {
+    text-align: center;
+    font-size: 28px;
+}
 .hero_container .hero_section_button {
     display: flex;
     gap: 24px;
